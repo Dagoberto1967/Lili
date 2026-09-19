@@ -1,6 +1,6 @@
 ---
 title: "DISTRIBUCIONES DE FRECUENCIAS"
-subtitle: "Teoria"
+subtitle: "Conceptos"
 author: 
   - name: Isabella Castiblanco Diaz
     affiliation: "Universidad del Tolima"
